@@ -1,3 +1,5 @@
+origin: https://github.com/dnSpyEx/Roslyn.ExpressionCompiler
+
 ## Roslyn Expression Compiler source code used by dnSpy
 
 The `master` branch contains the original source code, see one of the latest commits for the Roslyn commit hash that was used.
